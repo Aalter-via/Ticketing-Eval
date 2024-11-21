@@ -1,5 +1,5 @@
 
-# Ticketing system Evaluation
+# Ticketing System Evaluation
 
 This is a central point of collaboration for evaulating the purchase of a ticketing system. 
 
